@@ -1,0 +1,6 @@
+framework module Pods_GWC_2016 {
+  umbrella header "Pods-GWC-2016-umbrella.h"
+
+  export *
+  module * { export * }
+}
